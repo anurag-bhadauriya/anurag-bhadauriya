@@ -1,4 +1,4 @@
-### Here is what I;m working On! 👋
+### Here is what I'm working On! 👋
 
 
 Here are some ideas to get you started:
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... ab02091995@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Love what I do.
--->
