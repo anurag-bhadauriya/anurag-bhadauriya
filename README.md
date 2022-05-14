@@ -1,8 +1,5 @@
 ### Here is what I'm working On! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Healthcare domain
 - 🌱 I’m currently learning ... System Design and AWS
 - 👯 I’m looking to collaborate on ... System Design
