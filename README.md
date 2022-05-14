@@ -1,4 +1,4 @@
-### Here is what I'm working On! 👋
+### Here is What I'm working On! 👋
 
 - 🔭 I’m currently working on ... Healthcare domain
 - 🌱 I’m currently learning ... System Design and AWS
